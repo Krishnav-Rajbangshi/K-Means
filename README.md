@@ -11,4 +11,5 @@ The K-means clustering algorithm is used to find groups which have not been expl
     Geo-statistics
     Astronomy
     
- 
+ ![k-means-clustering-algorithm-in-machine-learning](https://user-images.githubusercontent.com/79277882/130466444-2b2c8484-398c-4945-bbab-71e81a150157.png)
+
